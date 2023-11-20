@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/MOR4Xx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=2272F7&width=272&lines=Hello!;My+name+is+JORGE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=2272F7&width=272&lines=Hello!;My+name+is+JORGE!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -36,16 +36,11 @@ Here are some ideas to get you started:
 <div>
   <h1>Tools and languages 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
   
-  <img align="center" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img height="48px" width="48px" align="center" src="http://www.aptechsp.com.br/wp-content/uploads/2015/01/linguagem-C-e1421281232968.png"/>
-  <img align="center" src="https://img.icons8.com/color/48/000000/arduino.png"/>  
-  <img align="center" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img align="center" src="https://img.icons8.com/color/48/000000/java.png"/>  
   <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img align="center" src="https://img.icons8.com/color/48/javascript.png" >
   <img align="center" src="https://img.icons8.com/color/48/python.png" >
-  <img align="center" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img align="center" src="https://img.icons8.com/color/48/html-5--v1.png" >
   <img align="center" src="https://img.icons8.com/color/48/css3.png" >
   <img align="center" src="https://img.icons8.com/color/48/mysql-logo.png" >
-  <img align="center" src="https://img.icons8.com/color/48/000000/git.png"/>
 </div>
