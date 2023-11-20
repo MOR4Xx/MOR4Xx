@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/MOR4Xx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=2272F7&width=272&lines=Hello!;My+name+is+Osmar+Bruno!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=2272F7&width=272&lines=Hello!;My+name+is+JORGE+AFONSO!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BRun0442&theme=dark"/></div>
+<div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MOR4Xx&theme=dark"/></div>
 
 <div align="center">
-<a href="https://github.com/BRun0442">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BRun0442&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRun0442&layout=compact&langs_count=7&theme=tokyonight"/>
+<a href="https://github.com/MOR4Xx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOR4Xx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOR4Xx&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br>
