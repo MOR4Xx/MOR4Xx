@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <div>
   <h1>Tools and languages 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
   
-  <img align="center" src="[https://img.icons8.com/color/48/java.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)"/>
+  <img align="center" src="https://img.icons8.com/color/48/java.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)"/>
   <img align="center" src="https://img.icons8.com/color/48/python.png" >
   <img align="center" src="https://img.icons8.com/color/48/html-5--v1.png" >
   <img align="center" src="https://img.icons8.com/color/48/css3.png" >
