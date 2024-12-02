@@ -1,17 +1,17 @@
 <div align="center">
   <a href="https://github.com/MOR4Xx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=0&color=00FFFF&width=272&lines=My+name+is+JORGE!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=0&color=00FFFF&width=272&lines=Hello+my+name+is+JORGE!" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 <br>
 
-<!--<div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MOR4Xx&theme=dark"/></div>-->
+<div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MOR4Xx&theme=dark"/></div>
 
 <div align="center">
 <a href="https://github.com/MOR4Xx">
-  <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOR4Xx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOR4Xx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOR4Xx&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -26,4 +26,8 @@
   <img align="center" src="https://img.icons8.com/color/48/html-5--v1.png" >
   <img align="center" src="https://img.icons8.com/color/48/css3.png" >
   <img align="center" src="https://img.icons8.com/color/48/mysql-logo.png" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </div>
