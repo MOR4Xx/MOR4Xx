@@ -10,8 +10,9 @@
 <!--<div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MOR4Xx&theme=dark"/></div>-->
 
 <div align="center">
-<a href="https://github.com/MOR4Xx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOR4Xx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+<div align="center">
   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOR4Xx&&layout=pie&langs_count=7&theme=dark"/>
 </div>
 
