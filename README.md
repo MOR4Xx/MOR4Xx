@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MOR4Xx&theme=dark"/></div>
+<!--<div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MOR4Xx&theme=dark"/></div>-->
 
 <div align="center">
 <a href="https://github.com/MOR4Xx">
