@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/MOR4Xx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=0&color=00FFFF&width=272&lines=Hello+my+name+is+JORGE!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=FFFFFF&width=272&lines=Hello!+My+name+is+JORGE!" alt="Typing SVG" />
   </a>
 </div>
 
