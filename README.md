@@ -21,13 +21,12 @@
 <div>
   <h1>Tools and languages 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
   
-  <img align="center" height="48px" src="https://img.icons8.com/?size=256&id=13679&format=png"/>
-  <img align="center" src="https://img.icons8.com/color/48/python.png" >
-  <img align="center" src="https://img.icons8.com/color/48/html-5--v1.png" >
-  <img align="center" src="https://img.icons8.com/color/48/css3.png" >
-  <img align="center" src="https://img.icons8.com/color/48/mysql-logo.png" >
+  <img align="center" height="48px" src="https://img.icons8.com/?size=256&id=13679&format=png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/color/48/python.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/color/48/html-5--v1.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/color/48/css3.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/color/48/mysql-logo.png" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </div>
