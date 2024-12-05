@@ -22,12 +22,14 @@
 <div>
   <h1>Tools and languages 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
   
-  <img align="center" src="https://img.icons8.com/?size=256&id=13679&format=png" width="40" height="40">
-  <img align="center" src="https://img.icons8.com/color/48/python.png" width="40" height="40">
-  <img align="center" src="https://img.icons8.com/color/48/html-5--v1.png" width="40" height="40">
-  <img align="center" src="https://img.icons8.com/color/48/css3.png" width="40" height="40">
-  <img align="center" src="https://img.icons8.com/color/48/mysql-logo.png" width="40" height="40">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  <img align="center" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/fluency/48/python.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/fluency/48/html-5.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/fluency/48/css3.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/fluency/48/javascript.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/fluency/48/typescript--v1.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/fluency/48/angularjs.png" width="40 height="40">
+  <img align="center" src="https://img.icons8.com/fluency/48/arduino.png" width="40 height="40">
+  <img align="center" src="https://img.icons8.com/color/48/raspberry-pi.png" width="40 height="40">
 </div>
