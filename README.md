@@ -22,7 +22,7 @@
 <div>
   <h1>Tools and languages 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
   
-  <img align="center" height="48px" src="https://img.icons8.com/?size=256&id=13679&format=png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/?size=256&id=13679&format=png" width="40" height="40">
   <img align="center" src="https://img.icons8.com/color/48/python.png" width="40" height="40">
   <img align="center" src="https://img.icons8.com/color/48/html-5--v1.png" width="40" height="40">
   <img align="center" src="https://img.icons8.com/color/48/css3.png" width="40" height="40">
