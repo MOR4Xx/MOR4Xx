@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOR4Xx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div align="center">
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOR4Xx&&layout=pie&langs_count=7&theme=dark"/>
+  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOR4Xx&langs_count=7&theme=dark"/>
 </div>
 
 <br>
