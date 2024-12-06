@@ -1,8 +1,25 @@
 <div align="center">
-  <a href="https://github.com/MOR4Xx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=2000&color=FFFFFF&width=272&lines=Hello!+My+name+is+JORGE!" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/MOR4Xx"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=2000&color=FFFFFF&width=272&lines=Hello!+My+name+is+JORGE!" alt="Typing SVG" /></a>
+  <hr>
+  
+    💻 Estudante do 4° períodp de Sistemas de Informação no Instituto Federal Goiano.
+    
+    🔬 Membro do Laboratório Maker - IF MAKER Urutaí.
+    
+    👨‍💻 Técnico em Redes de Computadores.
+    
 </div>
+
+<hr>
+<div align="center">
+    <a href="https://www.linkedin.com/in/jorge-afonso-rabelo-de-araujo-598088239/" target="_blank" style="display: inline-block; margin-top: 20px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="cursor: pointer;">
+    </a>
+    <a href="mailto:jorgeafonsoaraujo@gmail.com" target="_blank" style="display: inline-block; margin-top: 20px;">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="cursor: pointer;">
+    </a>
+</div>
+<hr>
 
 <br>
 <br>
