@@ -2,11 +2,11 @@
   <a href="https://github.com/MOR4Xx"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=2000&color=FFFFFF&width=272&lines=Hello!+My+name+is+JORGE!" alt="Typing SVG" /></a>
   <hr>
   
-    💻 Estudante do 4° períodp de Sistemas de Informação no Instituto Federal Goiano.
+    💻 Student of the 4th period of Information Systems at the Instituto Federal Goiano.
     
-    🔬 Membro do Laboratório Maker - IF MAKER Urutaí.
+    🔬 Member of the Maker Laboratory - IF MAKER Urutaí.
     
-    👨‍💻 Técnico em Redes de Computadores.
+    👨‍💻 Computer Network Technician.
     
 </div>
 
