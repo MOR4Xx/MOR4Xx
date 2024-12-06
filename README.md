@@ -15,9 +15,6 @@
     <a href="https://www.linkedin.com/in/jorge-afonso-rabelo-de-araujo-598088239/" target="_blank" style="display: inline-block; margin-top: 20px;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="cursor: pointer;">
     </a>
-    <a href="mailto:jorgeafonsoaraujo@gmail.com" target="_blank" style="display: inline-block; margin-top: 20px;">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="cursor: pointer;">
-    </a>
 </div>
 <hr>
 
