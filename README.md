@@ -43,4 +43,5 @@
   <img align="center" src="https://img.icons8.com/fluency/48/angularjs.png" width="40 height="40">
   <img align="center" src="https://img.icons8.com/fluency/48/arduino.png" width="40 height="40">
   <img align="center" src="https://img.icons8.com/color/48/raspberry-pi.png" width="40 height="40">
+  <img align="center" src="https://img.icons8.com/color/48/google-firebase-console.png" width="40 height="40" alt="Google Firebase">
 </div>
