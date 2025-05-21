@@ -31,7 +31,7 @@
 <br>
   
 <div>
-  <h1>HARD SKILLS 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
+  <h1>LINGUAGENS E FERRAMENTAS 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
   
   <img align="center" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" width="40" height="40">
   <img align="center" src="https://img.icons8.com/fluency/48/python.png" width="40" height="40">
@@ -40,13 +40,5 @@
   <img align="center" src="https://img.icons8.com/fluency/48/angularjs.png" width="40 height="40">
   <img align="center" src="https://img.icons8.com/color/48/google-firebase-console.png" width="40 height="40" alt="Google Firebase">
   <img align="center" src="https://img.icons8.com/color/48/spring-logo.png" width="40" height="40" alt="spring-logo"/>
-</div>
-
-<br>
-
-<div>
-  <h1>TECHNOLOGICAL HOBBIES<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
-  <img align="center" src="https://img.icons8.com/fluency/48/arduino.png" width="40 height="40">
-  <img align="center" src="https://img.icons8.com/color/48/raspberry-pi.png" width="40 height="40">
 </div>
 
