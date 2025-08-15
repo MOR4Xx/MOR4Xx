@@ -42,5 +42,3 @@
   <img align="center" src="https://img.icons8.com/color/48/spring-logo.png" width="40" height="40" alt="spring-logo"/>
 </div>
 
-### 🐍 Meus commits em movimento
-![Snake animation](dist/github-contribution-grid-snake.svg)
