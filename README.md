@@ -41,5 +41,7 @@
   <img align="center" src="https://img.icons8.com/fluency/48/angularjs.png" width="40 height="40">
   <img align="center" src="https://img.icons8.com/color/48/google-firebase-console.png" width="40 height="40" alt="Google Firebase">
   <img align="center" src="https://img.icons8.com/color/48/spring-logo.png" width="40" height="40" alt="spring-logo"/>
+  <img align="center" src="https://img.icons8.com/color/96/kotlin.png" width="40" height="40" alt="kotlin-logo"/>
+  <img align="center" src="https://img.icons8.com/fluency/48/android-os.png" width="40" height="40" alt="android-logo"/>
 </div>
 
