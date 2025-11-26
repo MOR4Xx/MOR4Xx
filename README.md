@@ -21,7 +21,7 @@
 <br>
 <br>
 
-<!-- <div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MOR4Xx&theme=dark"/></div> -->
+<div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MOR4Xx&theme=dark"/></div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOR4Xx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -32,16 +32,26 @@
 <br>
   
 <div>
-  <h1>LINGUAGENS E FERRAMENTAS 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
+  <h1>LINGUAGENS<img align="center" src="https://img.icons8.com/cotton/40/000000/source-code--v4.png"/></h1>
   
   <img align="center" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" width="40" height="40">
   <img align="center" src="https://img.icons8.com/fluency/48/python.png" width="40" height="40">
-  <img align="center" src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40" height="40">
   <img align="center" src="https://img.icons8.com/fluency/48/javascript.png" width="40" height="40">
-  <img align="center" src="https://img.icons8.com/fluency/48/angularjs.png" width="40 height="40">
-  <img align="center" src="https://img.icons8.com/color/48/google-firebase-console.png" width="40 height="40" alt="Google Firebase">
-  <img align="center" src="https://img.icons8.com/color/48/spring-logo.png" width="40" height="40" alt="spring-logo"/>
   <img align="center" src="https://img.icons8.com/color/96/kotlin.png" width="40" height="40" alt="kotlin-logo"/>
+
+  <h1>Frameworks <img align="center" src="https://img.icons8.com/color/40/gear.png"/></h1>
+  <img align="center" src="https://img.icons8.com/fluency/48/angularjs.png" width="40 height="40">
+  <img align="center" src="https://img.icons8.com/color/48/spring-logo.png" width="40" height="40" alt="spring-logo"/>
   <img align="center" src="https://img.icons8.com/fluency/48/android-os.png" width="40" height="40" alt="android-logo"/>
+
+  <h1>Banco de Dados <img align="center" src="https://img.icons8.com/fluency/40/database--v1.png"/></h1>
+  <img align="center" src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/color/48/google-firebase-console.png" width="40 height="40" alt="Google Firebase">
+
+  <h1>Ferramentas <img align="center" src="https://img.icons8.com/fluency/40/wrench--v1.png"/></h1>
+  <img align="center" src="https://img.icons8.com/fluency/48/docker.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/color/96/kubernetes.png" width="40" height="40">
+  <img align="center" src="https://img.icons8.com/color/96/figma--v1.png" width="40" height="40">
+  
 </div>
 
