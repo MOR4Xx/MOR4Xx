@@ -31,7 +31,7 @@
 
 <br>
   
-<div>
+<div align="left">
   <h1>LINGUAGENS<img align="center" src="https://img.icons8.com/cotton/40/000000/source-code--v4.png"/></h1>
   
   <img align="center" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" width="40" height="40">
