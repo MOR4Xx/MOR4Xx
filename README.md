@@ -43,6 +43,7 @@
   <img align="center" src="https://img.icons8.com/fluency/48/angularjs.png" width="40 height="40">
   <img align="center" src="https://img.icons8.com/color/48/spring-logo.png" width="40" height="40" alt="spring-logo"/>
   <img align="center" src="https://img.icons8.com/fluency/48/android-os.png" width="40" height="40" alt="android-logo"/>
+  <img align="center" width="40" height="40" src="https://img.icons8.com/office/40/react.png" alt="react"/>
 
   <h1>Banco de Dados <img align="center" src="https://img.icons8.com/fluency/40/database--v1.png"/></h1>
   <img align="center" src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40" height="40">
