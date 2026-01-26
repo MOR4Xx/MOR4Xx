@@ -44,15 +44,18 @@
   <img align="center" src="https://img.icons8.com/color/48/spring-logo.png" width="40" height="40" alt="spring-logo"/>
   <img align="center" src="https://img.icons8.com/fluency/48/android-os.png" width="40" height="40" alt="android-logo"/>
   <img align="center" width="40" height="40" src="https://img.icons8.com/office/40/react.png" alt="react"/>
+  <img align="center" width="40" height="40" src="https://img.icons8.com/fluency/48/nextjs.png" alt="Next"/>
 
   <h1>Banco de Dados <img align="center" src="https://img.icons8.com/fluency/40/database--v1.png"/></h1>
   <img align="center" src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40" height="40">
   <img align="center" src="https://img.icons8.com/color/48/google-firebase-console.png" width="40 height="40" alt="Google Firebase">
+  <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 
   <h1>Ferramentas <img align="center" src="https://img.icons8.com/fluency/40/wrench--v1.png"/></h1>
   <img align="center" src="https://img.icons8.com/fluency/48/docker.png" width="40" height="40">
   <img align="center" src="https://img.icons8.com/color/96/kubernetes.png" width="40" height="40">
   <img align="center" src="https://img.icons8.com/color/96/figma--v1.png" width="40" height="40">
+  <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>
   
 </div>
 
