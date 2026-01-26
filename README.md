@@ -2,7 +2,7 @@
   <a href="https://github.com/MOR4Xx"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=2000&color=FFFFFF&width=272&lines=Hello!+My+name+is+JORGE!" alt="Typing SVG" /></a>
   <hr>
   
-    💻 Student of the 6th period of Information Systems at the Instituto Federal Goiano.
+    💻 Student of the 7th period of Information Systems at the Instituto Federal Goiano.
     
     🔬 Member of the Maker Laboratory - IF MAKER Urutaí.
     
